@@ -1,0 +1,15 @@
+/node_modules
+
+# lock files
+/package-lock.json
+
+# nx cache
+.nx
+apps/api-resturants/.env
+apps/api-resturants/.env.local
+apps/api-users/.env
+apps/api-users/.env.local
+apps/resturant-dashboard/.env
+apps/client/.env
+# DS store
+.DS_Store
