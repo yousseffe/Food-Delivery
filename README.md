@@ -1,10 +1,7 @@
 # Food Delivery Web Application using Microservice Architecture with Nest.js, GraphQL, Next.js, Prisma
 
-Welcome to the open-source Food Delivery Web Application series utilizing Microservice Architecture. This project aims to create a comprehensive Food Delivery Web Application employing Microservice Architecture. Separate applications will be built for Admin, User, Restaurant Owner, and Delivery Man. The entire project will be freely accessible, and this README covers the initial part, with more to come.
+Welcome to Food Delivery Web Application series utilizing Microservice Architecture. This project aims to create a comprehensive Food Delivery Web Application employing Microservice Architecture. Separate applications will be built for Admin, User, Restaurant Owner, and Delivery Man. The entire project will be freely accessible, and this README covers the initial part, with more to come.
 
-## Open for Contributors
-
-This project is open for contributions. Whether you want to modify aspects or collaborate on the entire project, you're welcome to join us. Given the scope of this significant project, your assistance can help bring it to completion quickly. Previous experience is not a barrier; if you possess frontend development skills, you can contribute.
 
 ## Technology Used
 
