@@ -5,4 +5,4 @@ Welcome to Food Delivery Web Application series utilizing Microservice Architect
 
 ## Technology Used
 
-Given the Microservice Architecture, it's challenging to enumerate all the exact technologies we plan to use. However, for an overview, we intend to employ Nest.js as the backend framework, GraphQL for Microservice connection gateway, Docker for containerizing our application, Prisma as the Database ORM, and AWS ECS for deployment, along with other AWS platforms. On the frontend, Next.js will be used for speed optimization and superior SEO. As this is the first part of our project, not all technologies have been finalized.
+Given the Microservice Architecture, it's challenging to enumerate all the exact technologies i plan to use. However, for an overview, i intend to employ Nest.js as the backend framework, GraphQL for Microservice connection gateway, Docker for containerizing our application, Prisma as the Database ORM, and AWS ECS for deployment, along with other AWS platforms. On the frontend, Next.js will be used for speed optimization and superior SEO.
